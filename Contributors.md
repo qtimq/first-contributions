@@ -7,6 +7,7 @@
 - [Sylvain Empson] (https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Taimoor Imran](https://github.com/taimoorimran)
+- [qtimq]
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Surya Siriki](https://github.com/suryasiriki4)
 - [Linusaltacc](https://github.com/linusaltacc)
@@ -81,7 +82,7 @@
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
 - Gbenga Kusade (https://github.com/jagkush)
-- Bryce Videka 
+- Bryce Videka
 - [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - Jarred Lopez
@@ -246,7 +247,7 @@ Pooja Muthalik
 - [Guang Lim](https://github.com/gylim0604)
 - Alejandro Rodriquez
 - Richard Cho
-- [Jeffrey Chen](https://github.com/Jechen27) 
+- [Jeffrey Chen](https://github.com/Jechen27)
 - Ingrid Marcal
 - Yedukrishna K
 - Shubhra Jyoti(https://github.com/Shubhraaa)
@@ -1522,7 +1523,7 @@ Pooja Muthalik
 - [Nikunj Das Kasat](https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ananya Agarwal](https://github.com/AnanyaAgarwal25)
-- [Sriram](https://github.com/BLNDLYBLV) 
+- [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Manasa Samaga](https://github.com/manasasamaga)
@@ -4869,7 +4870,7 @@ Pooja Muthalik
 - [Danny Whitt](https://github.com/Danny-Whitt-Bose)
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
-- [HKA] (https://github.com/hariharankabc) 
+- [HKA] (https://github.com/hariharankabc)
 - [Kartik Singh]
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
 - [Ahmed Ragab](https://github.com/ahmedrgb1)
